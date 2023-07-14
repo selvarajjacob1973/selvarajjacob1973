@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jacob Selvaraj
 - 👀 I’m interested in cloud architecture on GCP,AWS,Azure 
-- 🌱 I’m currently learning Hybrid cloud computing
 - 💞️ I’m looking to collaborate on cloud architecture K8s,GCP etc
 - 📫 How to reach me selvaraj_jacob@hotmail.com
 
